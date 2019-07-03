@@ -16,9 +16,7 @@ REQUIRES_PYTHON = '>=3.6.7'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'textwrap',
     'matplotlib',
-    'operator',
     'numpy',
 ]
 
